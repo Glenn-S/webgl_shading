@@ -66,3 +66,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# webgl-triangle
+practice with webGL in React
+>>>>>>> 18a5d596ee3979bd45e2bce7aa7d710a97d9cb23
